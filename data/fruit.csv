@@ -1,0 +1,22 @@
+# Example data for the Machine Learning Crash Course. Made-up, for teaching.
+weight_g,colour_score,fruit
+148,0.12,apple
+162,0.18,apple
+171,0.08,apple
+155,0.22,apple
+180,0.15,apple
+140,0.25,apple
+175,0.1,apple
+158,0.2,apple
+168,0.05,apple
+152,0.28,apple
+130,0.82,orange
+145,0.9,orange
+138,0.75,orange
+160,0.88,orange
+125,0.95,orange
+152,0.8,orange
+142,0.7,orange
+135,0.92,orange
+148,0.85,orange
+158,0.78,orange
