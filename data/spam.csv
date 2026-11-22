@@ -1,0 +1,18 @@
+# Example data for the Machine Learning Crash Course. Made-up, for teaching.
+text,is_spam
+"win a free prize now, click this link",1
+"congratulations you won money, claim your cash prize",1
+"urgent: your account will be closed, verify here for a free gift",1
+"cheap meds and a free holiday, limited offer winner",1
+"you have been selected to win a lucky prize, act now",1
+"claim your reward, 100 percent free, no credit card",1
+"winner winner, cash prize waiting, click to collect",1
+"exclusive deal, make money fast from home today",1
+"hi, are we still meeting for lunch tomorrow?",0
+please find the project notes attached,0
+thanks for your help with the report yesterday,0
+can you send the invoice for the office chairs?,0
+"the train is late, I will be there at 10",0
+"happy birthday, see you at the party on Saturday",0
+here is the agenda for Monday's team meeting,0
+I booked a table at the new restaurant,0
